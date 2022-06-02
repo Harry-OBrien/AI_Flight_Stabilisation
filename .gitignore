@@ -1,7 +1,8 @@
 # Ignore the python environment
-python_virtual_env
+py_venv
 
 # other guff
 __pycache__
 .ipynb_checkpoints
 .DS_Store
+
